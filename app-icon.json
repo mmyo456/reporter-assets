@@ -105,10 +105,11 @@
   "League of Legends (TM) Client": "league_of_legends",
   "LeagueClientUx": "league_of_legends",
   "PDF Expert": "pdf_expert",
-  "LobeChat":"lobe_chat",
-  "Cursor":"cursor",
-  "Epic":"epic",
-  "Lightroom":"lr",
+  "LobeChat": "lobe_chat",
+  "Cursor": "cursor",
+  "Epic": "epic",
+  "Lightroom": "lr",
   "iPhone镜像": "iphonemirror",
-  "企业微信": "wxwork"
+  "企业微信": "wxwork",
+  "VRChat": "vrchat"
 }
